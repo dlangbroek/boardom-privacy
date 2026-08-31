@@ -8,6 +8,10 @@ title: Boardom Privacy Policy
 
 Boardom ("the app") is a board game rules reference built by an independent developer. This policy explains what information the app collects, why, and how you can control or delete it.
 
+## Support
+
+Need help using Boardom, found a bug, or have feedback or a feature request? Email **langbroekdylan@gmail.com** and we'll get back to you.
+
 ## Information You Provide
 
 **Account.** Creating an account requires an email address and password, handled by our backend provider, Supabase. Your email is used only for sign-in and account-related emails (like password resets) — it is never shown to other players.
