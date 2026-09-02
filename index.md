@@ -4,7 +4,7 @@ title: Boardom Privacy Policy
 
 # Boardom Privacy Policy
 
-**Last updated: August 1, 2026**
+**Last updated: September 1, 2026**
 
 Boardom ("the app") is a board game rules reference built by an independent developer. This policy explains what information the app collects, why, and how you can control or delete it.
 
@@ -16,11 +16,11 @@ Need help using Boardom, found a bug, or have feedback or a feature request? Ema
 
 **Account.** Creating an account requires an email address and password, handled by our backend provider, Supabase. Your email is used only for sign-in and account-related emails (like password resets) — it is never shown to other players.
 
-**Profile.** When you set up a profile you choose a display name, a color, and optionally upload a photo as your avatar. Your name, color, and avatar are visible to other players — for example, next to your game ratings or in a group you've joined.
+**Profile.** When you set up a profile you choose a first and last name, a unique username, and a color, and optionally upload a photo as your avatar. Your username, color, and avatar are always visible to other players — for example, in search results or next to your game ratings. Your first and last name are shown according to a visibility setting you control (everyone, friends only, or just you).
 
 **Game activity.** Ratings, wishlist, favorites, and downloaded-games lists are tied to your account so they sync across your devices. Ratings are shown publicly (as part of each game's community rating); your wishlist, favorites, and downloads are private to you.
 
-**Social features.** If you use Friends, Groups, Game Nights, or Tournaments, the names of people you invite or connect with, group membership, and game night/tournament results are stored so the feature works. House rules you write are shown according to the visibility setting you choose (everyone, friends, or just you).
+**Social features.** If you use Friends, Groups, Game Nights, or Tournaments, the names of people you invite or connect with, group membership, and game night/tournament results are stored so the feature works. House rules you write are shown according to the visibility setting you choose (everyone, friends, or just you). Text you submit for house rules, group names, and similar fields is checked by an automated filter that blocks explicit or profane language before it's saved.
 
 ## Camera
 
